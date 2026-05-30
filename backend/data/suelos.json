@@ -1,0 +1,20 @@
+[
+  {
+    "id": "arenoso",
+    "label": "Arenoso",
+    "riskScore": 85,
+    "description": "Baja retención de agua; mayor riesgo si pasan varios días sin riego."
+  },
+  {
+    "id": "franco",
+    "label": "Franco",
+    "riskScore": 55,
+    "description": "Retención intermedia; riesgo moderado según clima y cultivo."
+  },
+  {
+    "id": "arcilloso",
+    "label": "Arcilloso",
+    "riskScore": 35,
+    "description": "Mayor retención relativa; requiere validación porque puede compactarse o saturarse."
+  }
+]

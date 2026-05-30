@@ -1,0 +1,162 @@
+[
+  {
+    "id": "soya",
+    "label": "Soya",
+    "sensitivityScore": 70,
+    "stages": [
+      {
+        "id": "inicial",
+        "label": "Inicial",
+        "riskScore": 35
+      },
+      {
+        "id": "vegetativo",
+        "label": "Vegetativo",
+        "riskScore": 55
+      },
+      {
+        "id": "floracion",
+        "label": "Floración",
+        "riskScore": 88
+      },
+      {
+        "id": "fructificacion",
+        "label": "Llenado de grano/fructificación",
+        "riskScore": 82
+      },
+      {
+        "id": "maduracion",
+        "label": "Maduración",
+        "riskScore": 45
+      }
+    ]
+  },
+  {
+    "id": "maiz",
+    "label": "Maíz",
+    "sensitivityScore": 78,
+    "stages": [
+      {
+        "id": "inicial",
+        "label": "Inicial",
+        "riskScore": 40
+      },
+      {
+        "id": "vegetativo",
+        "label": "Vegetativo",
+        "riskScore": 60
+      },
+      {
+        "id": "floracion",
+        "label": "Floración",
+        "riskScore": 92
+      },
+      {
+        "id": "fructificacion",
+        "label": "Formación de mazorca",
+        "riskScore": 85
+      },
+      {
+        "id": "maduracion",
+        "label": "Maduración",
+        "riskScore": 45
+      }
+    ]
+  },
+  {
+    "id": "arroz",
+    "label": "Arroz",
+    "sensitivityScore": 85,
+    "stages": [
+      {
+        "id": "inicial",
+        "label": "Inicial",
+        "riskScore": 55
+      },
+      {
+        "id": "vegetativo",
+        "label": "Macollamiento/vegetativo",
+        "riskScore": 78
+      },
+      {
+        "id": "floracion",
+        "label": "Floración",
+        "riskScore": 94
+      },
+      {
+        "id": "fructificacion",
+        "label": "Llenado de grano",
+        "riskScore": 88
+      },
+      {
+        "id": "maduracion",
+        "label": "Maduración",
+        "riskScore": 50
+      }
+    ]
+  },
+  {
+    "id": "cana",
+    "label": "Caña de azúcar",
+    "sensitivityScore": 72,
+    "stages": [
+      {
+        "id": "inicial",
+        "label": "Brote/inicial",
+        "riskScore": 50
+      },
+      {
+        "id": "vegetativo",
+        "label": "Crecimiento vegetativo",
+        "riskScore": 75
+      },
+      {
+        "id": "floracion",
+        "label": "Floración",
+        "riskScore": 70
+      },
+      {
+        "id": "fructificacion",
+        "label": "Desarrollo de tallo",
+        "riskScore": 78
+      },
+      {
+        "id": "maduracion",
+        "label": "Maduración",
+        "riskScore": 55
+      }
+    ]
+  },
+  {
+    "id": "hortalizas",
+    "label": "Hortalizas",
+    "sensitivityScore": 82,
+    "stages": [
+      {
+        "id": "inicial",
+        "label": "Inicial",
+        "riskScore": 60
+      },
+      {
+        "id": "vegetativo",
+        "label": "Vegetativo",
+        "riskScore": 78
+      },
+      {
+        "id": "floracion",
+        "label": "Floración",
+        "riskScore": 90
+      },
+      {
+        "id": "fructificacion",
+        "label": "Fructificación",
+        "riskScore": 92
+      },
+      {
+        "id": "maduracion",
+        "label": "Cosecha/maduración",
+        "riskScore": 65
+      }
+    ]
+  }
+]

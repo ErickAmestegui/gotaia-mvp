@@ -1,0 +1,42 @@
+[
+  {
+    "location": "Santa Cruz de la Sierra",
+    "temperatureC": 32,
+    "rainfallLast7DaysMm": 8,
+    "rainForecast3DaysMm": 3,
+    "condition": "caluroso y seco",
+    "limitation": "Dato mock para demo; no representa microclima de parcela."
+  },
+  {
+    "location": "San Julian",
+    "temperatureC": 35,
+    "rainfallLast7DaysMm": 2,
+    "rainForecast3DaysMm": 0,
+    "condition": "sequía probable",
+    "limitation": "Dato mock para demo; validar con fuente local."
+  },
+  {
+    "location": "Montero",
+    "temperatureC": 30,
+    "rainfallLast7DaysMm": 22,
+    "rainForecast3DaysMm": 12,
+    "condition": "lluvia moderada reciente",
+    "limitation": "Dato mock para demo; validar con fuente local."
+  },
+  {
+    "location": "Okinawa",
+    "temperatureC": 34,
+    "rainfallLast7DaysMm": 5,
+    "rainForecast3DaysMm": 4,
+    "condition": "calor con baja lluvia",
+    "limitation": "Dato mock para demo; validar con fuente local."
+  },
+  {
+    "location": "Warnes",
+    "temperatureC": 29,
+    "rainfallLast7DaysMm": 35,
+    "rainForecast3DaysMm": 16,
+    "condition": "lluvia disponible",
+    "limitation": "Dato mock para demo; validar con fuente local."
+  }
+]
